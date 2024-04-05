@@ -424,7 +424,7 @@ Manipulating web pages is the primary benefit of the JavaScript language! These 
    As you read, remember that the general ideas can be applied to any event, not only the ones used in examples - but information specific to a certain event type can always be found by checking documentation.
 
    - [JavaScript events](https://www.javascripttutorial.net/javascript-dom/javascript-events/)
-   - [Page load events](https://www.javascripttutorial.net/javascript-dom/javascript-page-load-events/)
+   - [Page load events](https://javascript.info/onload-ondomcontentloaded)
    - [Mouse events](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)
    - [Keyboard events](https://www.javascripttutorial.net/javascript-dom/javascript-keyboard-events/)
    - [Event delegation](https://www.javascripttutorial.net/javascript-dom/javascript-event-delegation/)
